@@ -1,1 +1,1 @@
-console.log("uqysm")
+console.log("finvc")
