@@ -1,1 +1,1 @@
-console.log("ktofc")
+console.log("qmkak")
